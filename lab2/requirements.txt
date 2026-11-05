@@ -1,0 +1,8 @@
+# приложение
+numpy
+pillow
+# сборка тестовой базы и отчёта (необязательно)
+scikit-image
+matplotlib
+python-docx
+reportlab
