@@ -1,0 +1,6 @@
+# приложение и experiments.py — только стандартная библиотека Python 3 (tkinter, math, time)
+# рисунки и сборка отчёта (необязательно)
+numpy
+matplotlib
+python-docx
+reportlab
